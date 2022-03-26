@@ -46,7 +46,7 @@ public class Ex_svc {
 	call this function with: http://localhost:1356/ex/purchase_crt?app_id=1&tnt_id=1&u_id=1&u_sh=a&store_id=1&item_id=1
 	purchase create
 		this is the introductory example to illustrate the purpose of Yoovlo as described here:
-			https://yoovlo.org/yoovlo/docs/intro
+			https://yoovlo.org/yoovlo/docs/workflows
 		app_id: app id
 		tnt_id: tenant id
 		u_id: user id
