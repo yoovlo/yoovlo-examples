@@ -1,0 +1,8 @@
+http://localhost:1356/ex/purchase_crt?app_id=1&tnt_id=1&u_id=1&u_sh=a&store_id=1&item_id=1
+
+@RequestParam Long app_id,
+@RequestParam Long tnt_id,
+@RequestParam Long u_id,
+@RequestParam String u_sh,
+@RequestParam Long store_id,
+@RequestParam Long item_id,
